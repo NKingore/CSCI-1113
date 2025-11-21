@@ -1,8 +1,7 @@
 #include <iostream>
 
 int main(){
-     
-    char x; 
+    char x;
 
     std::cin >> x;
     std::cout << "Hello world!" << std::endl;
