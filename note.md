@@ -16,6 +16,11 @@ Add new code/changes
 
 # push commited files to remote origin (github website)
 4) git push -u origin main
+
+# pull files from github.com to computer
+5) git pull
 ```
+
+
 
 
